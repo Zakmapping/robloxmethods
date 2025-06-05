@@ -14,7 +14,7 @@ https://deltaexploits.gg/
 Safe: ✅
 Android: ✅
 IOS: ✅
-Windows: ❌ [DISCONNECTED]
+Windows: ❌ [DISCONNECTED, JUST USE LDPLAYER, BLUESTACKS, OTHERS...]
 ```
 
 ## How to Contant Delta Developers, Moderators:
