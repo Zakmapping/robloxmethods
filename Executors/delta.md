@@ -17,6 +17,8 @@ IOS: ✅
 Windows: ❌ [DISCONNECTED]
 ```
 
-### OUTDATED 🥷:
-Delta is currently not working due to a problem in Roblox Player Beta Because it needs to be updated from the Playstore, you should wait for the next updates.
-
+## How to Contant Delta Developers, Moderators:
+- Visit Delta Offical Discord Server:
+```
+discord.gg/deltax
+```
