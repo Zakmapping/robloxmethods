@@ -15,4 +15,20 @@ Welcome to Robloxmethods is a place or project to publish Exploits, hacking meth
 - We want tested, working methods. 
 - The routes should be about Roblox, not the games in it.
 
+## CopyRight Rules (Game Exploits/Executors only):
+## Exploit/Executor CopyRights:
+- If the exploit/executor is yours or the one you will add has License in the last line when you create yourexploit.md put ©
+```
+Created by [YourName] [2025] ©
+```
+- If your exploit/executor is open source and does not have a license, put this logo ® like this: 
+```
+Created by [YourName] [2025] ®
+```
 
+- If your exploit/executor is open source and has a license, put ©® it together like this: 
+```
+Created by [YourName] [2025] ©®
+```
+
+or you can put not your own executor/exploit but you need to do more researches about what you will do and are you sure about that
